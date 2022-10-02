@@ -1,0 +1,15 @@
+{
+  "driver": [
+    {
+      "name": "Jose",
+      "age": 12
+    }
+  ],
+  "users": [
+    {
+      "email": "john.doe@gmail.com",
+      "password": "$2a$10$KKB3UJi1672FSaCQRuFey.ZW/AhEp2lIdzKTEM2QJYDISjVASyIaq",
+      "id": 1
+    }
+  ]
+}
