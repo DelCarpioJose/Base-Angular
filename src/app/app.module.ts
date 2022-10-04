@@ -17,10 +17,20 @@ import {MatSortModule} from "@angular/material/sort";
 import {MatCardModule} from "@angular/material/card";
 import {MatGridListModule} from "@angular/material/grid-list";
 import {MatDividerModule} from "@angular/material/divider";
+import { ParkingGraphsComponent } from './parking/pages/parking-graphs/parking-graphs.component';
+import { ParkingLotsComponent } from './parking/pages/parking-lots/parking-lots.component';
+import { ParkingPaymentComponent } from './parking/pages/parking-payment/parking-payment.component';
+import { ProfileComponent } from './parking/pages/profile/profile.component';
+import { PageNotFoundComponent } from './public/pages/page-not-found/page-not-found.component';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    ParkingGraphsComponent,
+    ParkingLotsComponent,
+    ParkingPaymentComponent,
+    ProfileComponent,
+    PageNotFoundComponent
   ],
   imports: [
     BrowserModule,

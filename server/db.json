@@ -1,8 +1,16 @@
 {
   "driver": [
     {
+      "id": 1,
       "name": "Jose",
       "age": 12
+    }
+  ],
+  "parking-lots": [
+    {
+      "id": 1,
+      "name": "ParkingCUt",
+      "space": 3
     }
   ],
   "users": [
@@ -10,6 +18,11 @@
       "email": "john.doe@gmail.com",
       "password": "$2a$10$KKB3UJi1672FSaCQRuFey.ZW/AhEp2lIdzKTEM2QJYDISjVASyIaq",
       "id": 1
+    },
+    {
+      "email": "edward.norton@gmail.com",
+      "password": "$2a$10$ZQUg7o416GG.DerW6U4mFe6U.gtRLDbIdSFGU6izJBAGmuS3Rrvli",
+      "id": 2
     }
   ]
 }

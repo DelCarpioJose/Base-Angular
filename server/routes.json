@@ -2,5 +2,5 @@
   "/api/v1/*":"/$1",
   "/auth/*": "/$1",
   "/sign-in": "signin",
-  "sign-up": "signup"
+  "/sign-up": "signup"
 }
